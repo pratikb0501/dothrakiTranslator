@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
 * {
   margin: 0;
   padding: center;
@@ -10,10 +10,9 @@ main {
 }
 
 body {
-  font-family: "Permanent Marker", Helvetica, Arial, sans-serif;
-  /* background: #94dfe2; */
-  background: black;
-  color: red;
+  font-family: "Inter", sans-serif;
+  background: #ffe194;
+  color: black;
 }
 
 .heading {
@@ -52,7 +51,7 @@ body {
 
 #btn-translate:hover {
   background: #0a8191;
-  width: 50%;
+  width: 40%;
   transition: width 1s;
 }
 
@@ -61,10 +60,10 @@ footer {
   /* margin: auto; */
   display: block;
   width: 100%;
-  background-color: red;
+  background-color: #b8dfd8;
   position: absolute;
   bottom: 0;
-  color: white;
+  /* color: white; */
 }
 
 .footer--heading {

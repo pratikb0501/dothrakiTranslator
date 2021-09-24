@@ -1,7 +1,7 @@
 # dothrakiTranslator
 
 This app translate any english sentence into Dothraki language. If you are fan of Game of Thrones,
-Checkout the app [here](https://objective-leakey-ba3559.netlify.app/)
+Checkout the app [here](https://pensive-visvesvaraya-653265.netlify.app/)
 
 # Technology Used
  - HTML
